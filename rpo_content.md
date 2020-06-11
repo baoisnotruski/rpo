@@ -142,21 +142,22 @@ Our applicant tracking system does more than save you from bulk ordering sticky 
 
 # REVIEW
 #### Quick Turn-Around
-Receive talent endorsements in a week. With our database of top-caliber tech talents, receive and process them in record-breaking time. 
+Receive talent endorsements within one week. With the right people managing a database of the best resumes, you can get quality recommendations at an impressive speed. 
 
-#### No Upfront Fees
-Start receiving endorsements without paying for upfront fees. Pay only upon placement to minimize cost and maximize hiring speed.
+#### Pay Upon Placement
+Pay only for the candidatese that you hire. That's 100% ROI on your hiring budget. 
 
-
-Free Replacement
+#### Free Replacement
 Receive replacement candidates for free if your hire leaves the company in 3 months. Or get your money back if no replacement is provided in 1 month. 
-Recruitment at Scale
-Our pipeline of tech talents enables us to help you with your IT hiring at scale. Our recruitment framework allows us to scale our operations to support your hiring needs.
 
-Testimonials (if available already)
+#### Recruitment at Scale
+We specialize in matching individual skills with business needs -- whether at a small or big scale. With the technology in place, we can help upsize your workforce at an exponential scale if needed. 
+
+#### Testimonials (if available already)
 Ready to be one step ahead of your competition? Hire with Us. See Pricing.
-Pricing Model
-We offer the most cost-efficient pricing for IT recruitment solutions in the market.
+
+#### Pricing Model
+We use our existing technologies to drive our pricing to the lowest possible market range. We top it with a pricing model that is radical, to say the least. 
 Levels
 Level 1
 Entry-Level to Junior-Level Tech Talents (0-3 years)
