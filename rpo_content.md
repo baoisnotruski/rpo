@@ -1,31 +1,31 @@
-Keywords Used:
+### Keywords Used:
 
-IT Recruitment agency
-Headhunting firm
-Executive search firms
+- IT Recruitment agency
+- Headhunting firm
+- Executive search firms
 
-Pages & Sections:
+### Pages & Sections:
 
-TOP NAV
+## TOP NAV
 
-Home Page
-Hero Image + Slogan with CTA
-Our Services
-What Sets Us Apart
-Roadmap To Partnership
-CTA
-About Us
-Who We Are
-What We Do
-Our Values
-Our Team
-Services
-IT Recruitment
-Talent Management
-IT Outsourcing
-Pricing (Needs Pricing Model)
-Per Level
-Contact Us
+- Home Page
+- Hero Image + Slogan with CTA
+- Our Services
+- What Sets Us Apart
+- Roadmap To Partnership
+- CTA
+- About Us
+- Who We Are
+- What We Do
+- Our Values
+- Our Team
+- Services
+- IT Recruitment
+- Talent Management
+- IT Outsourcing
+- Pricing (Needs Pricing Model)
+- Per Level
+- Contact Us
 
 FOOTER
 
@@ -124,13 +124,15 @@ ABOUT US
 
 History
 
-SERVICES
+# SERVICES
 
-IT Recruitment
+### IT Recruitment
 Hero Banner
 Match skills. Hire the best.
 We specialize in IT recruitment
+
 Our job is to find people that match skill requirements and work culture. We help you skip the harder bit of recruitment by bringing you the best talents straight away.
+
 Hire Now
 
 ### What We Offer
