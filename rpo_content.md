@@ -140,9 +140,8 @@ An expert IT recruiter will collaborate with you in the hiring process -- from b
 #### Talent Management Tool
 Our applicant tracking system does more than save you from bulk ordering sticky notes. It is a comprehensive tool that lets you organize resumes and edit applicant details so you can make recruitment a fluid process. 
 
-# REVIEW
 #### Quick Turn-Around
-Receive talent endorsements within one week. With the right people managing a database of the best resumes, you can get quality recommendations at an impressive speed. 
+Receive talent endorsements within one week. With specialist IT recruiters, you can get quality recommendations at an impressive speed. 
 
 #### Pay Upon Placement
 Pay only for the candidatese that you hire. That's 100% ROI on your hiring budget. 
@@ -158,18 +157,23 @@ Ready to be one step ahead of your competition? Hire with Us. See Pricing.
 
 #### Pricing Model
 We use our existing technologies to drive our pricing to the lowest possible market range. We top it with a pricing model that is radical, to say the least. 
-Levels
-Level 1
+
+## Levels
+
+### Level 1
 Entry-Level to Junior-Level Tech Talents (0-3 years)
 Gross Monthly Salary + 12% of Gross Monthly Salary
-Level 2
+
+### Level 2
 Mid-Level Tech Talents (3-7 years)
 Gross Monthly Salary + 15% of GMS
-Level 3
+
+### Level 3
 Senior Level Tech Talents (8 years+)
 Gross Monthly Salary + 18% of GMS
-Hiring At Scale
-Multiple Tech Hiring?
+
+### Hiring At Scale
+Need to take a massive hiring leap? We can help you scale up!
 Contact Us
+
 Get ahead of your competition. Hire with Us.
-    
