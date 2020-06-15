@@ -120,9 +120,17 @@ Contact Us
 Hire top tech talents fast.
 Contact Us
 
-ABOUT US
+# ABOUT US
 
-History
+### Who we are 
+We are recruiters who used to have the same problems that you do. We could not find the solutions that we needed. So we collaborated with our awesome developers to make the solutions ourselves. 
+
+### What we do
+We hire people. We specialize in hiring tech people. We design success by mixing attitude and skills in the workplace. We got tech hiring figured out. It's a natural progression that we share this success with you. 
+
+### Our Values
+
+
 
 # SERVICES
 
@@ -179,3 +187,19 @@ Need to take a massive hiring leap? We can help you scale up!
 Contact Us
 
 Get ahead of your competition. Hire with Us.
+
+
+### The [Talent Link Advantage]
+
+We surveyed some of the best and most experienced recruiters in the region. They share the same problems. These are our solutions.
+
+>>> This can be formatted as a table.
+
+| Challenges                                                      | The Talent Link Solutions                                                                               |
+|-----------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
+| Applicants don't respond to emails.                             | We connect to our talent roster using multiple channels.                                                |
+| There is a shortage of talent in the market.                    | We anchor on our years of being established in the IT industry.                                         |
+| Candidates with strong potential discontinue application.       | xx                                                                                                      |
+| Applicant database has to be manually updated on a spreadsheet. | Our applicant tracking system might be the reason you won't have to look at a spreadsheet again.        |
+| There is not enough budget for talent acquisition.              | Arguably the best service comes with definitely the best pricing.                                       |
+| Candidates are not able to start on target date.                | We make availability a major factor in our endorsements. No magic formula. Just HR logistics well-done. |
