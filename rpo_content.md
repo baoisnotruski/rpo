@@ -56,7 +56,9 @@ TOP NAV:
 ## CTA
 >>> These are options 
 - Hire now
-- 
+- Find talent
+- Start recruiting
+- Get a recruitment boost
 
 #### Hire With Us
 
@@ -74,7 +76,7 @@ Discover the new talent to drive your team forward.
 
 #### IT Recruitment
 
-Whether you are looking to expand your company or fill a gap in your team, our database can connect you to the right person. 
+Whether you are looking to expand your company or fill a gap in your team, we can connect you to the right person. 
 CTA - Hire With Us
 
 
@@ -84,14 +86,17 @@ Our IT recruitment solutions go far beyond headhunting. As partners, we provide 
 Learn More.
 
 #### IT Outsourcing (Place as first)
-We go beyond just helping you hire top IT talents. We help you manage your dedicated IT team remotely or in our built-for-techies office. We provide you with a workforce and project management tool to ensure your team performs up to your standards.
-Discover enhanced recruiment
+Our services is more than just helping you sign top IT talents. We help you manage your dedicated IT team remotely or in our built-for-techies office. We provide you with a workforce and project management tool to ensure your team performs up to your standards.
+Discover enhanced recruitment
 
 #### What Sets Us Apart
-We developed a platform that you will love to use. Dedicated IT recruiters handpick the best resumes and screen top potentials. What you get are recommendations that strongly match your ideal candidate.
+
+Dedicated IT recruiters handpick the best resumes and screen top potentials. You get only recommendations that strongly match your ideal candidate. 
 
 #### Talent Management Tool
-We provide our partners with their own talent management tool where they can track and manage not only our candidate endorsements but their in-house candidates as well. Through this tool, they can easily move candidates, automate email communications, and streamline coordination with their hiring partners.
+We developed a platform that you will love to use. We provide our partners with their own talent management tool where they can track and manage not only our candidate endorsements but their in-house candidates as well. 
+
+Do routine recruitment task the easy way: track candidates, automate email communications, and streamline coordination with us, your hiring partners.
 
 #### Partnership over Transaction
 We treat our clients as business partners. When we endorse a candidate, we consider the impact that they will make in an organization. We believe that the tech community can grow if we go beyond completing transactions and into establishing connections. 
@@ -108,13 +113,13 @@ Together with an IT recruiter, we will discuss the skillset and attitudes that m
 We provide you with a shortlisted candidate pool. Using our applicant tracking system, you can efficiently go through our recommendations and engage them in the next step of the process. 
 
 #### Interview
-The fun part: where process and intuition come together. After thoroughly going over the resume, you will get a sense of which candidate make a good fit for your team.
+The fun part: where process and intuition come together. After thoroughly going over resumes, you can meet candidates in person and get a sense of which ones fit your team best.
 
 #### Hire
 Bring the right talent in. Job done 
 
 #### Post-placement
-It's always good to have a Plan B. In the event that our endorsement leaves the company within 3 months, we'll provide a replacement in a month free of charge or return the fee if we’re not able to.
+It's always good to have a Plan B. In the event that our endorsement leaves your company within 3 months, we'll provide a replacement in a month free of charge-- or return the fee if we’re not able to.
 
 CTA
 Ready to hire top tech talents?
@@ -130,7 +135,7 @@ Contact Us
 We are recruiters who used to have the same problems that you do. We could not find the solutions that we needed. So we collaborated with our awesome developers to make the solutions ourselves. 
 
 ### What we do
-We hire people. We specialize in hiring tech people. We design success by mixing attitude and skills in the workplace. We got tech hiring figured out. It's a natural progression that we share this success with you. 
+We hire people. We specialize in hiring tech people. We design success by mixing attitude and skills in the workplace. We got tech hiring figured out. It's our turn to share this success with you. 
 
 ### Our Values
 
@@ -140,8 +145,8 @@ We hire people. We specialize in hiring tech people. We design success by mixing
 
 ### IT Recruitment
 Hero Banner
-Match skills. Hire the best.
-We specialize in IT recruitment
+- Match skills. Hire the best.
+- We specialize in IT recruitment
 
 Our job is to find people that match skill requirements and work culture. We help you skip the harder bit of recruitment by bringing you the best talents straight away.
 
@@ -161,7 +166,7 @@ Receive talent endorsements within one week. With specialist IT recruiters, you 
 Pay only for the candidatese that you hire. That's 100% ROI on your hiring budget. 
 
 #### Free Replacement
-Receive replacement candidates for free if your hire leaves the company in 3 months. Or get your money back if no replacement is provided in 1 month. 
+Receive replacement candidates for free if your hire leaves the company in three months. Or get your money back if no replacement is provided in one month. 
 
 #### Recruitment at Scale
 We specialize in matching individual skills with business needs -- whether at a small or big scale. With the technology in place, we can help upsize your workforce at an exponential scale if needed. 
@@ -203,7 +208,7 @@ We surveyed some of the best and most experienced recruiters in the region. They
 |-----------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
 | Applicants don't respond to emails.                             | We connect to our talent roster using multiple channels.                                                |
 | There is a shortage of talent in the market.                    | We anchor on our years of being established in the IT industry.                                         |
-| Candidates with strong potential discontinue application.       | xx                                                                                                      |
+| Candidates with strong potential discontinue application.       | Recommend committed and readily available talents.                                                                                                      |
 | Applicant database has to be manually updated on a spreadsheet. | Our applicant tracking system might be the reason you won't have to look at a spreadsheet again.        |
-| There is not enough budget for talent acquisition.              | Arguably the best service comes with definitely the best pricing.                                       |
+| There is not enough budget for talent acquisition.              | [Talent Link] has arguably the best service. Definitely, it comes with the best pricing.                                       |
 | Candidates are not able to start on target date.                | We make availability a major factor in our endorsements. No magic formula. Just HR logistics well-done. |
