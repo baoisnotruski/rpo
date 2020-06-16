@@ -46,14 +46,18 @@ TOP NAV:
 
 # Home Page
 ## Catchphrase or Slogan
-Tech people helping you find the right tech people.
-Connecting talent with recruitment.
-Specialty agency that connects you to specialized talents. 
-
+>>> These are options 
+- Tech recruiters helping you find the right tech people
+- Connecting talent with recruitment
+- Bridging talent and recruitment
+- Specialty agency that connects you to specialized talents 
+- Specialized recruitment for specialist jobs
 
 ## CTA
 >>> These are options 
-Simplify the process. Amplify your reach.
+- Hire now
+- 
+
 #### Hire With Us
 
 Select an applicant from our curated list of resumes.
